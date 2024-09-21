@@ -1,5 +1,6 @@
 # aiwechat-vercel
 使用[vercel](https://vercel.com/dashboard)的functions，将ai功能加入微信公众号
+![image](cover.png)
 
 ### 介绍
 
